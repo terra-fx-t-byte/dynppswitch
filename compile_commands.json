@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/terra-fx-t-byte/Documents/prjs/test/",
+    "command": "clang -D_GNU_SOURCE ./main.c -o ./dynppswitch",
+    "file": "main.c"
+  }
+]
